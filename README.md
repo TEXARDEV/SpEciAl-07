@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" alt="Assem Abdullah — Software Developer" width="100%">
+<img src="header.svg" alt="Assem Abdullah — Software Developer" width="100%">
 
 <br><br>
 
@@ -60,28 +60,9 @@ I design and build websites, automations and Discord bots, with the same care fo
 
 ### ✦ &nbsp;Selected work&nbsp; ✦
 
-</div>
+<img src="projects.svg" alt="Selected work: DashTech and Dashen" width="100%">
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/dashtech.png" alt="DashTech" width="100%"><br><br>
-      <b>DashTech &nbsp;·&nbsp; داش</b><br>
-      <sub>E-COMMERCE</sub><br><br>
-      An Arabic digital store with a dark and gold interface, offering gaming, series and Discord services with a fast checkout.
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/dashen.png" alt="Dashen" width="100%"><br><br>
-      <b>Dashen &nbsp;·&nbsp; دشّن</b><br>
-      <sub>SAAS PLATFORM</sub><br><br>
-      A platform that opens your store in seconds: a link under your name, instant orders, subscriptions and memberships from one dashboard.
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### ✦ &nbsp;Tools&nbsp; ✦
 
