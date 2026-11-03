@@ -84,7 +84,4 @@ Join the server and tell me about it.
 <a href="https://discord.gg/aAwf5anu5G"><img src="https://img.shields.io/badge/Discord-Join%20my%20server-232323?style=for-the-badge&logo=discord&logoColor=E58A68&labelColor=1A1A1A" alt="Join my Discord"></a>
 
 <br><br>
-
-<sub>حوّل الفكرة لنظام</sub>
-
 </div>
